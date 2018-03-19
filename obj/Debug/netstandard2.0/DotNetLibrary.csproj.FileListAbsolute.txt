@@ -1,0 +1,9 @@
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\test conversion\DotNetLibrary\bin\Debug\netstandard2.0\DotNetLibrary.deps.json
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\test conversion\DotNetLibrary\bin\Debug\netstandard2.0\DotNetLibrary.dll
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\test conversion\DotNetLibrary\obj\Debug\netstandard2.0\DotNetLibrary.csprojResolveAssemblyReference.cache
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\test conversion\DotNetLibrary\obj\Debug\netstandard2.0\DotNetLibrary.csproj.CoreCompileInputs.cache
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\test conversion\DotNetLibrary\obj\Debug\netstandard2.0\DotNetLibrary.AssemblyInfoInputs.cache
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\test conversion\DotNetLibrary\obj\Debug\netstandard2.0\DotNetLibrary.AssemblyInfo.cs
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\test conversion\DotNetLibrary\bin\Debug\netstandard2.0\DotNetLibrary.pdb
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\test conversion\DotNetLibrary\obj\Debug\netstandard2.0\DotNetLibrary.dll
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\test conversion\DotNetLibrary\obj\Debug\netstandard2.0\DotNetLibrary.pdb

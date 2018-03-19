@@ -1,0 +1,4 @@
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\test conversion\DotNetLibrary\obj\Debug\net462\DotNetLibrary.csprojResolveAssemblyReference.cache
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\test conversion\DotNetLibrary\obj\Debug\net462\DotNetLibrary.csproj.CoreCompileInputs.cache
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\test conversion\DotNetLibrary\obj\Debug\net462\DotNetLibrary.AssemblyInfoInputs.cache
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\test conversion\DotNetLibrary\obj\Debug\net462\DotNetLibrary.AssemblyInfo.cs

@@ -1,0 +1,4 @@
+
+
+
+C:\Dev\CsprojToVs2017-master\CsprojToVs2017-master\Project2015To2017\bin\Release\net46>Project2015To2017.exe "C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\test conversion\DotNetLibrary\DotNetLibrary.sln"

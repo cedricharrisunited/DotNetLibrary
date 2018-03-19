@@ -1,0 +1,8 @@
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\DotNetLibrary\bin\Release\netstandard2.0\DotNetLibrary.deps.json
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\DotNetLibrary\bin\Release\netstandard2.0\DotNetLibrary.dll
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\DotNetLibrary\bin\Release\netstandard2.0\DotNetLibrary.pdb
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\DotNetLibrary\obj\Release\netstandard2.0\DotNetLibrary.csproj.CoreCompileInputs.cache
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\DotNetLibrary\obj\Release\netstandard2.0\DotNetLibrary.AssemblyInfoInputs.cache
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\DotNetLibrary\obj\Release\netstandard2.0\DotNetLibrary.AssemblyInfo.cs
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\DotNetLibrary\obj\Release\netstandard2.0\DotNetLibrary.dll
+C:\Dev\TestCompatibility\DotNetCoreProxy\DotNetLibrary\DotNetCoreLibrary\DotNetLibrary\obj\Release\netstandard2.0\DotNetLibrary.pdb
